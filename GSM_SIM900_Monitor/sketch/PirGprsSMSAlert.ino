@@ -16,8 +16,7 @@
 
 
 #include <SoftwareSerial.h>
-#include <String.h>
-#include <Time.h>  
+#include <TimeLib.h>  
  
 SoftwareSerial myGPRS(7, 8);  // GPIO pins used by SeeedStudio GSM
 
